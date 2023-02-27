@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/giphyproject/static/css/main.26e2e65a.css",
+    "main.js": "/giphyproject/static/js/main.9897ca09.js",
+    "static/js/787.516de8c0.chunk.js": "/giphyproject/static/js/787.516de8c0.chunk.js",
+    "index.html": "/giphyproject/index.html",
+    "static/media/giphy.svg": "/giphyproject/static/media/giphy.210157511ac98dd0dd29799b781516d0.svg",
+    "main.26e2e65a.css.map": "/giphyproject/static/css/main.26e2e65a.css.map",
+    "main.9897ca09.js.map": "/giphyproject/static/js/main.9897ca09.js.map",
+    "787.516de8c0.chunk.js.map": "/giphyproject/static/js/787.516de8c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26e2e65a.css",
+    "static/js/main.9897ca09.js"
+  ]
+}
